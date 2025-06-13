@@ -1,12 +1,12 @@
 # WalterisWatching
 
-this is quite an amazing mod i assure you
+This is quite an amazing mod i assure you
 
 
 <img src="logo.png" width="150" alt="the mod's logo" />
 
 
-This is quite possibly the most important mod of our generation.
+In fact this may quite possibly be the most important mod of our generation.
 
 Rest assured you may now sleep know walter white is there. Always wwatching.  
 He fades in. He fades out. He hovers. He judges.  
