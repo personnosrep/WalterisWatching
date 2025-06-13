@@ -6,5 +6,12 @@ this is quite an amazing mod i assure you
 <img src="logo.png" width="150" alt="the mod's logo" />
 
 
-This astonishing mod makes sure that Walter White himself can watch over you. 
-Rest assured you may now safely play the hit game *Geometry Dash* without any fear of what may creep up on you.
+This is quite possibly the most important mod of our generation.
+
+Rest assured you may now sleep know walter white is there. Always wwatching.  
+He fades in. He fades out. He hovers. He judges.  
+He appears when you press buttons.  
+He *wows* when you die. 
+He celebrates when you win.  
+
+Install it. Or don't. But he’ll know either way.
