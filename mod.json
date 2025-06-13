@@ -1,14 +1,11 @@
 {
 	"geode": "4.3.1",
 	"gd": {
-		"win": "2.2074",
-		"android": "2.2074",
-		"mac": "2.2074",
-		"ios": "2.2074"
+		"win": "2.2074"
 	},
-	"id": "personosrep.walter",
+	"id": "personosrep.walteriswatching",
 	"name": "WalterisWatching",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "personosrep (aggravatedassaultduck)",
 	"tags": [
 		"joke",
@@ -30,3 +27,5 @@
 
 	
 }
+
+
